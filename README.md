@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @duchuy312
 - 👀 I’m interested in music
-- 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with react-native
 - 📫 How to reach me email: nguyenduchuy31298@gmail.com
 
 <!---
